@@ -1,9 +1,11 @@
 ---
 name: Test report
-about: Tell us how the test went on your machine
+about: Tell us how the test went on your machine ("it works" reports welcome)
+title: "Test report: <laptop model>"
+labels: test-report
 ---
 
-**Laptop model:**
+**Laptop model** (from `sh check.sh`):
 
 **Distribution and version:**
 

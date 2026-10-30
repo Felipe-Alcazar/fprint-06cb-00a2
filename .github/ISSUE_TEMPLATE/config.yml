@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Check if your laptop has the 06cb:00a2 reader
+    url: https://github.com/Felipe-Alcazar/fprint-06cb-00a2#does-my-computer-have-this-reader
+    about: Run `lsusb | grep 06cb:00a2` first. Other Synaptics readers are not covered.
